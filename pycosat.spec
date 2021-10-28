@@ -4,7 +4,7 @@
 #
 Name     : pycosat
 Version  : 0.6.3
-Release  : 17
+Release  : 18
 URL      : https://github.com/ContinuumIO/pycosat/archive/0.6.3.tar.gz
 Source0  : https://github.com/ContinuumIO/pycosat/archive/0.6.3.tar.gz
 Summary  : bindings to picosat (a SAT solver)
